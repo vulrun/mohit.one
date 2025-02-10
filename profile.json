@@ -118,11 +118,25 @@
     "experience": {
         "label": "Livelihood",
         "items": [
+             {
+                "title": "Backend Developer",
+                "place": "Birlasoft Limited",
+                "location": "Noida, India",
+                "duration": "Jul'23 - Now",
+                "description": "Integrated payment gateways like Stripe, Paypal, Mastercard Checkout, Google Pay, Apple Pay, responsible for single transactions & monthly subscriptions on various projects. Delivered many projects some context of them are\n\t* Food Grocery Delivery Application\n\t* Events Invites & Bookings Application\n\t* Personal Service Bookings\n\t* Blind Dating Application\n\t* IoT based Bike Rental Application"
+            },
+              {
+                "title": "Backend Developer",
+                "place": "Jungleworks Pvt. Ltd.",
+                "location": "Chandigarh, India",
+                "duration": "Jun'21 - May'23",
+                "description": "Integrated payment gateways like Stripe, Paypal, Mastercard Checkout, Google Pay, Apple Pay, responsible for single transactions & monthly subscriptions on various projects. Delivered many projects some context of them are\n\t* Food Grocery Delivery Application\n\t* Events Invites & Bookings Application\n\t* Personal Service Bookings\n\t* Blind Dating Application\n\t* IoT based Bike Rental Application"
+            },
             {
                 "title": "Backend Developer",
                 "place": "Apptunix - Mobile App Development Company",
                 "location": "Chandigarh, India",
-                "duration": "May'20 - Now",
+                "duration": "May'20 - Jun'21",
                 "description": "Integrated payment gateways like Stripe, Paypal, Mastercard Checkout, Google Pay, Apple Pay, responsible for single transactions & monthly subscriptions on various projects. Delivered many projects some context of them are\n\t* Food Grocery Delivery Application\n\t* Events Invites & Bookings Application\n\t* Personal Service Bookings\n\t* Blind Dating Application\n\t* IoT based Bike Rental Application"
             },
             {
