@@ -8,11 +8,12 @@
     "about": {
         "label": "About Me",
         "avatar": "https://www.gravatar.com/avatar/3409360cd08c8f6b4535b5c9cbeb2770.jpg?s=480",
+        "__download": "https://calendly.com/vulrun/1hr",
         "signature": "/files/sign.svg",
         "fullName": "Mohit Gupta",
         "shortName": "Mohit G",
         "highlights": "Programmer",
-        "birthDate": "May 23",
+        "__birthDate": "May 23",
         "email": "reach@mohit.one",
         "brief": "A lad capable to turn caffeine into codes.",
         "description": "A Software Developer specializing in full-stack development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including JavaScript and it's libraries and frameworks, MySQL, and P  HP with a strong background in servers and customer relations.",
@@ -24,12 +25,12 @@
     },
 
     "social": {
-        "github": "https://github.com/webcdn",
-        "twitter": "https://twitter.com/vulrun",
+        "github": "https://github.com/vulrun",
         "linkedin": "https://in.linkedin.com/in/vulrun",
-        "facebook": "https://facebook.com/vulrun",
+        "stackoverflow": "https://stackoverflow.com/users/5642197/",
         "dribbble": "https://dribbble.com/anonymooous",
-        "stackoverflow": "https://stackoverflow.com/users/5642197/"
+        "facebook": "https://facebook.com/vulrun",
+        "twitter": "https://twitter.com/vulrun"
     },
 
     "languages": {
@@ -118,19 +119,26 @@
     "experience": {
         "label": "Livelihood",
         "items": [
-            {
+             {
+                "title": "Technical Specialist",
+                "place": "Birlasoft Limited",
+                "location": "Noida, India",
+                "duration": "Jul'23 - May'25",
+                "description": "Worked on delivering IT services for HPE. Improved several backend NodeJS based application performances, modernized legacy systems, and implemented secure, standards-compliant code."
+            },
+              {
                 "title": "Backend Developer",
-                "place": "Apptunix - Mobile App Development Company",
+                "place": "Jungleworks Pvt. Ltd.",
                 "location": "Chandigarh, India",
-                "duration": "May'20 - Now",
-                "description": "Integrated payment gateways like Stripe, Paypal, Mastercard Checkout, Google Pay, Apple Pay, responsible for single transactions & monthly subscriptions on various projects. Delivered many projects some context of them are\n\t* Food Grocery Delivery Application\n\t* Events Invites & Bookings Application\n\t* Personal Service Bookings\n\t* Blind Dating Application\n\t* IoT based Bike Rental Application"
+                "duration": "Jun'21 - May'23",
+                "description": "Integrated 15+ third-party logistics to build a delivery orchestration for 1M orders monthly with worldwide POS systems while focusing on a reliable solution for in-house products."
             },
             {
                 "title": "Full Stack Developer",
                 "place": "RV Technologies Soft. Pvt. Ltd.",
                 "location": "Chandigarh, India",
                 "duration": "Dec'16 - Feb'20",
-                "description": "Working as full stack developer capable to develop websites and web applications on the front end, and working with servers and databases on the back end."
+                "description": "Delivered 10+ B2B and B2C web/mobile applications\n\n* Food & Grocery Delivery Application\n* Event Invitation & Booking Platform * Wellness Journal App\n* Blind Dating Application\n* IoT-based Bike Rental System"
             },
             {
                 "title": "Stack Programmer",
