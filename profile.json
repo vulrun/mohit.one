@@ -8,12 +8,12 @@
     "about": {
         "label": "About Me",
         "avatar": "https://www.gravatar.com/avatar/3409360cd08c8f6b4535b5c9cbeb2770.jpg?s=480",
-        "__download": "https://calendly.com/vulrun/1hr",
+        "__kill_download": "https://calendly.com/vulrun/1hr",
         "signature": "/files/sign.svg",
         "fullName": "Mohit Gupta",
         "shortName": "Mohit G",
         "highlights": "Programmer",
-        "__birthDate": "May 23",
+        "__kill_birthDate": "May 23",
         "email": "reach@mohit.one",
         "brief": "A lad capable to turn caffeine into codes.",
         "description": "A Software Developer specializing in full-stack development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including JavaScript and it's libraries and frameworks, MySQL, and P  HP with a strong background in servers and customer relations.",
@@ -26,11 +26,11 @@
 
     "social": {
         "github": "https://github.com/vulrun",
-        "linkedin": "https://in.linkedin.com/in/vulrun",
+        "linkedin": "https://linkedin.com/in/vulrun",
         "stackoverflow": "https://stackoverflow.com/users/5642197/",
         "dribbble": "https://dribbble.com/anonymooous",
-        "facebook": "https://facebook.com/vulrun",
-        "twitter": "https://twitter.com/vulrun"
+        "__kill_facebook": "https://facebook.com/vulrun",
+        "__kill_twitter": "https://twitter.com/vulrun"
     },
 
     "languages": {
